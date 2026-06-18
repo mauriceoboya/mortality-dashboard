@@ -1,0 +1,7 @@
+name: Mortality Dashboard
+version: 1.0
+author: Epidemiology Team
+category: Health
+engine: shiny
+entrypoint: app.R
+description: Mortality analysis dashboard
