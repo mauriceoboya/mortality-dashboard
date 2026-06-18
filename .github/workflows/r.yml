@@ -42,6 +42,7 @@ jobs:
         with:
           packages: |
             shiny
+            dplyr
 
       # 5. Syntax check (fail fast if app has errors)
       - name: Syntax check
